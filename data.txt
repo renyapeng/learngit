@@ -2,3 +2,4 @@ hello
 learning git new branch
 this is the master checkout
 add it in feather1 branch
+bug closed
